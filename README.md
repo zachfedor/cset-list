@@ -6,5 +6,9 @@ A list of the CSET class of 2020
 - Zach Fedor
 
 ## Students
-- Kevin Lueke 
 - Nick Card
+- Steve Eckles
+- Eric Moyer
+- Cody Martin
+- Kevin Lueke
+- Carni Buzaglo

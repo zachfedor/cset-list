@@ -6,6 +6,7 @@ A list of the CSET class of 2020
 - Zach Fedor
 
 ## Students
+
 - Max Crandall
 - Ben Long 
 - Nick Card
@@ -15,3 +16,5 @@ A list of the CSET class of 2020
 - Kevin Lueke
 - Carni Buzaglo
 - Wilnelys Roman
+- Brendan Horst
+

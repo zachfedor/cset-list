@@ -6,6 +6,7 @@ A list of the CSET class of 2020
 - Zach Fedor
 
 ## Students
+1. Wilnelys Roman
 1. Brian Burchett
 1. Kaila Gonzalez
 1. Julio Pochet

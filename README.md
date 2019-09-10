@@ -17,4 +17,5 @@ A list of the CSET class of 2020
 1. Kevin Lueke
 1. Carni Buzaglo
 1. Brendan Horst
+2. Justice Lee
 1. Joey Zimmerman

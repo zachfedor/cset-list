@@ -6,6 +6,11 @@ A list of the CSET class of 2020
 - Zach Fedor
 
 ## Students
+1. Wilnelys Roman
+1. Brian Burchett
+1. Kaila Gonzalez
+1. Julio Pochet
+1. Alebachew Melaku
 1. Kate Mundale
 1. Scott Johnson 
 1. Max Crandall
@@ -16,5 +21,10 @@ A list of the CSET class of 2020
 1. Kevin Lueke
 1. Carni Buzaglo
 1. Brendan Horst
+1. Lee Enck
+1. Ethan Kubistek
+2. Justice Lee
 1. Joey Zimmerman
 1. Qui Pham
+1. Cody Martin
+1. Andrew Scholly

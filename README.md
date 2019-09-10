@@ -7,3 +7,4 @@ A list of the CSET class of 2020
 
 ## Students
 -Kevin Lueke 
+-Julio Pochet

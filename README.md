@@ -28,3 +28,4 @@ A list of the CSET class of 2020
 1. Qui Pham
 1. Cody Martin
 1. Andrew Scholly
+1. Thom Mondeaux

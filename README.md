@@ -1,4 +1,4 @@
-# CSET Class List
+X# CSET Class List
 
 A list of the CSET class of 2020
 
@@ -7,3 +7,5 @@ A list of the CSET class of 2020
 
 ## Students
 - 
+1. Qui Pham
+

@@ -31,3 +31,4 @@ A list of the CSET class of 2020
 1. Thom Mondeaux
 1. Daniel Monville
 1. Anthony Harvey
+1. Nathan Weiler
